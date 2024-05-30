@@ -16,6 +16,13 @@
 
         <label for="sueldo">Sueldo:0</label>
         <input type="number" id="sueldo" name="sueldo" required>
+        
+        <label for="puesto">Puesto:</label><br>
+        <input type="text" id="puesto" name="puesto"><br><br>
+
+        <label for="actividades">Actividades:</label><br>
+        <textarea id="actividades" name="actividades"></textarea><br><br>
+
 
         <button type="submit">Enviar</button>
     </form>
